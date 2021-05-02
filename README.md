@@ -5,7 +5,7 @@ Systems Analysis and Development Student - Always practicing, here it is my prof
 </a>
 <a target="_blank" href="cajedanilo@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dangog&theme=vision-friendly-dark&show_icons=true)
 ---
