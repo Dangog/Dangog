@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Dangog
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Systems Analysis and Development Student - Always practicing, here it is my profile! :milky_way::earth_africa::first_quarter_moon:
 
-<!---
-Dangog/Dangog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dangog&theme=vision-friendly-dark)
+
