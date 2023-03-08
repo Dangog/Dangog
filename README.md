@@ -7,7 +7,7 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dangog&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true&count_private)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dangog&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true&count_private=true)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dangog&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dangog&theme=graywhite&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
   
