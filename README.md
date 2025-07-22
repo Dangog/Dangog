@@ -5,10 +5,15 @@ Olá! Sou Danilo Cajé, um desenvolvedor com ênfase em back-end e apaixonado po
 Com foco em Java, minhas habilidades abrangem:
 
 **Spring Boot:** Construção de aplicações escaláveis e performáticas.
+
 **Microservices:** Arquitetura distribuída para sistemas resilientes.
+
 **APIs RESTful:** Desenvolvimento de interfaces e contratos de API bem documentados.
+
 **Bancos de Dados:** Experiência com SQL (PostgreSQL, MySQL, RDS) e NoSQL (MongoDB, DynamoDB).
+
 **Cloud:** AWS, atualmente estudando GCP e posteriormente Azure.
+
 **Testes:** Garantia da qualidade e estabilidade do código com testes unitários seguindo práticas como TDD.
 
 Conecte-se Comigo!
@@ -167,7 +172,7 @@ Minhas Estatísticas no GitHub
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Dangog&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Dangog&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
