@@ -1,18 +1,18 @@
-🌌**Danilo Cajé: Desenvolvedor**🛰️
+🌌 **Danilo Cajé: Desenvolvedor** 🛰️
 
 Olá! Sou Danilo Cajé, um desenvolvedor com ênfase em back-end e apaixonado por construir sistemas com Java e Python robustos e eficientes.
 
 Com foco em Java, minhas habilidades abrangem:
 
-**Spring Boot:** Construção de aplicações escaláveis e performáticas.
+**Spring Boot:** Construção de aplicações escaláveis e performáticas no Framework Java mais adotado.
 
-**Microservices:** Arquitetura distribuída para sistemas resilientes.
+**Microservices:** Arquitetura distribuída.
 
 **APIs RESTful:** Desenvolvimento de interfaces e contratos de API bem documentados.
 
 **Bancos de Dados:** Experiência com SQL (PostgreSQL, MySQL, RDS) e NoSQL (MongoDB, DynamoDB).
 
-**Cloud:** AWS, atualmente estudando GCP e posteriormente Azure.
+**Cloud:** Uso produtivo em AWS e GCP, em vias de certificação AWS.
 
 **Testes:** Garantia da qualidade e estabilidade do código com testes unitários seguindo práticas como TDD.
 
