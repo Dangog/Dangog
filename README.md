@@ -2,19 +2,14 @@
 
 Olá! Sou Danilo Cajé, um desenvolvedor com ênfase em back-end regularmente construindo alguma coisa com Java e/ou Python.
 
-Com foco em Java, minhas habilidades abrangem:
+Ultimamente focando em Java, minhas habilidades abrangem:
 
 **Spring Boot:** Construção de aplicações escaláveis e performáticas no Framework Java mais adotado.
-
 **Microservices:** Arquitetura distribuída.
-
 **APIs RESTful:** Desenvolvimento de interfaces e contratos de API bem documentados.
-
 **Bancos de Dados:** Experiência com SQL (PostgreSQL, MySQL, RDS) e NoSQL (MongoDB, DynamoDB).
-
 **Cloud:** Uso produtivo em AWS e GCP, em vias de certificação AWS.
-
-**Testes:** Garantia da qualidade e estabilidade do código com testes unitários seguindo práticas como TDD.
+**Testes:** Testes unitários seguindo práticas como TDD.
 
 Conecte-se Comigo!
 ---
